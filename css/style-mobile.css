@@ -5,7 +5,7 @@ body{
 	margin-right: 10%;
 	padding: 10px 10px 10px 10px;
 	line-height: 1.6em;
-	zoom:220%;
+	zoom:420%;
 }
 p{
 	color:#33FF66;
@@ -68,8 +68,6 @@ p{
 	left: 0px;
 	top:0px;
 	z-index: 0;
-	margin-right: 30%;
-	margin-left: 30%;
 }
 .lightning{
 	display: none;
